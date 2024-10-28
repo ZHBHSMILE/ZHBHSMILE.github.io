@@ -156,13 +156,13 @@
     <title>2024-10</title>
     <url>/2024/10/07/2024-10/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-AcItbJFr" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="20744782" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-WpzSFwIx" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="20744782" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-ixiSqGbQ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-QMykhfsX" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-xRpdzXGL" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-YxkyDBnx" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -186,6 +186,12 @@
 <td align="left">冯骥才</td>
 <td align="left">4</td>
 <td align="left">纪实文学</td>
+</tr>
+<tr>
+<td align="left">自然辩证法</td>
+<td align="left">恩格斯</td>
+<td align="left">2</td>
+<td align="left">哲学</td>
 </tr>
 </tbody></table>
 <h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
@@ -212,16 +218,30 @@
 <thead>
 <tr>
 <th align="left">somewhere</th>
+<th align="left"></th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td align="left">浙江省博</td>
+<td align="left">富春山居图之剩山图</td>
+</tr>
+<tr>
+<td align="left">武汉科技馆</td>
+<td align="left">虹吸水钟</td>
+</tr>
+</tbody></table>
 <h3 id="change"><a href="#Change" class="headerlink" title="Change"></a>Change</h3><table>
 <thead>
 <tr>
 <th align="left">something</th>
+<th align="left"></th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td align="left">1. about eduction</td>
+<td align="left">1.</td>
+</tr>
+</tbody></table>
 <h3 id="plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h3><table>
 <thead>
 <tr>
