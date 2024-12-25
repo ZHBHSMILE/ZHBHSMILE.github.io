@@ -425,13 +425,13 @@
     <title>2024-12</title>
     <url>/2024/12/03/2024-12/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-bUruRgxP" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="22777398" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-wttMrFeu" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="22777398" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-gUspxCAj" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-hXesQAyt" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-UwzgIGsU" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-OnPlWrBm" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -460,6 +460,12 @@
 <td align="left">流星之绊</td>
 <td align="left">东野圭吾</td>
 <td align="left">3</td>
+<td align="left">悬疑小说</td>
+</tr>
+<tr>
+<td align="left">遥远的地球之歌</td>
+<td align="left">克拉克</td>
+<td align="left">3.5</td>
 <td align="left">科幻小说</td>
 </tr>
 <tr>
@@ -467,6 +473,18 @@
 <td align="left">小弗雷德</td>
 <td align="left">3</td>
 <td align="left">金融</td>
+</tr>
+<tr>
+<td align="left">人类活动中的理性</td>
+<td align="left">赫伯特西蒙</td>
+<td align="left">2.5</td>
+<td align="left">金融</td>
+</tr>
+<tr>
+<td align="left">世界的凛冬</td>
+<td align="left">福莱特</td>
+<td align="left">3</td>
+<td align="left">小说</td>
 </tr>
 </tbody></table>
 <h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
