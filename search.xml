@@ -547,16 +547,16 @@
       </tags>
   </entry>
   <entry>
-    <title>2024-12</title>
+    <title>2025-1</title>
     <url>/2025/01/12/2025-1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-lpZBgJHk" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="139718" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-NLVDNaGk" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="139718" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-JnVmSENt" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-qVoRYiGh" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-djQNCAvA" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-AOfWhqJX" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -587,6 +587,12 @@
 <td align="left">3</td>
 <td align="left">经济学</td>
 </tr>
+<tr>
+<td align="left">软技能</td>
+<td align="left"></td>
+<td align="left">3.5</td>
+<td align="left">技能类</td>
+</tr>
 </tbody></table>
 <h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
 <thead>
@@ -603,6 +609,10 @@
 <td align="left">人工智能</td>
 <td align="left">4</td>
 </tr>
+<tr>
+<td align="left">那山那人那狗</td>
+<td align="left">4.2</td>
+</tr>
 </tbody></table>
 <h3 id="walk"><a href="#Walk" class="headerlink" title="Walk"></a>Walk</h3><table>
 <thead>
@@ -617,6 +627,10 @@
 </tr>
 <tr>
 <td align="left">丝绸博物馆</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">灵隐寺</td>
 <td align="left"></td>
 </tr>
 </tbody></table>
