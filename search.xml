@@ -822,13 +822,13 @@
     <title>2025-3</title>
     <url>/2025/03/09/2025-03/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-WDlpzCmy" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2038191895" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-UPBNzeOD" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2038191895" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-RkmlQZSL" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-iGYwlvlL" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-KcVHkKmM" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-ovaFmVRN" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -842,6 +842,24 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">显微镜下的大明</td>
+<td align="left">马伯庸</td>
+<td align="left">3.5</td>
+<td align="left">历史小说</td>
+</tr>
+<tr>
+<td align="left">历史决定论的贫困</td>
+<td align="left">波普尔</td>
+<td align="left">4</td>
+<td align="left">科学哲学</td>
+</tr>
+<tr>
+<td align="left">巴菲特之道</td>
+<td align="left">罗伯特</td>
+<td align="left">3.5</td>
+<td align="left">金融</td>
+</tr>
+<tr>
 <td align="left">显微镜下的大明</td>
 <td align="left">马伯庸</td>
 <td align="left">3.5</td>
@@ -867,7 +885,15 @@
 <th align="left"></th>
 </tr>
 </thead>
-</table>
+<tbody><tr>
+<td align="left">扬州</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">植物园</td>
+<td align="left">白里透红的梅花</td>
+</tr>
+</tbody></table>
 <h3 id="know"><a href="#know" class="headerlink" title="know"></a>know</h3><table>
 <thead>
 <tr>
@@ -892,10 +918,84 @@
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">枸杞菊花糯米粥</td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h3 id="plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+</tr>
+</thead>
+</table>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>月志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-4</title>
+    <url>/2025/04/06/2025-034/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+    <div id="aplayer-JDtYWBNL" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2038191895" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+<!-- 
+    <div id="aplayer-aKpwlidb" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div> -->
+<!-- 
+    <div id="aplayer-SYoSHhTB" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
+    ></div> -->
+
+<h3 id="read"><a href="#Read" class="headerlink" title="Read"></a>Read</h3><table>
+<thead>
+<tr>
+<th align="left">题名</th>
+<th align="left">作者</th>
+<th align="left">评分</th>
+<th align="left">题材</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">指数基金定投</td>
+<td align="left">二师傅</td>
+<td align="left">3.5</td>
+<td align="left">金融</td>
+</tr>
+</tbody></table>
+<h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
+<thead>
+<tr>
+<th align="left">题名</th>
+<th align="left">评分</th>
+</tr>
+</thead>
+<tbody><tr>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
 </tbody></table>
+<h3 id="walk"><a href="#Walk" class="headerlink" title="Walk"></a>Walk</h3><p>| somewhere    | |</p>
+<h3 id="know"><a href="#know" class="headerlink" title="know"></a>know</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+<th align="left"></th>
+</tr>
+</thead>
+</table>
+<h3 id="change"><a href="#Change" class="headerlink" title="Change"></a>Change</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+<th align="left"></th>
+</tr>
+</thead>
+</table>
 <h3 id="plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h3><table>
 <thead>
 <tr>
