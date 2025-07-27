@@ -1048,16 +1048,16 @@
       </tags>
   </entry>
   <entry>
-    <title>2025-4</title>
+    <title>2025-5</title>
     <url>/2025/05/11/2025-05/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-lWXgEuQm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="163442170" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-VTtyotCB" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="163442170" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-bylQpZir" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-PNDWDJUl" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-roNdIXIE" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-JYTscSBG" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -1167,13 +1167,13 @@
     <title>2025-6</title>
     <url>/2025/06/13/2025-06/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-YHXYHwKT" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="28912082" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+    <div id="aplayer-fGdnrThA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="28912082" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
 <!-- 
-    <div id="aplayer-kJxdeXJh" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-wQSIxabj" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
     ></div> -->
 <!-- 
-    <div id="aplayer-DTGWZSmP" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-fKxDJEbT" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
     ></div> -->
 
@@ -1210,6 +1210,18 @@
 <td align="left">3.5</td>
 <td align="left">自传</td>
 </tr>
+<tr>
+<td align="left">深度营养</td>
+<td align="left">凯瑟琳</td>
+<td align="left">3.5</td>
+<td align="left">健康</td>
+</tr>
+<tr>
+<td align="left">心理学与生活</td>
+<td align="left">菲利普 京巴多</td>
+<td align="left">4</td>
+<td align="left">心理学</td>
+</tr>
 </tbody></table>
 <h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
 <thead>
@@ -1222,8 +1234,16 @@
 <td align="left"></td>
 <td align="left"></td>
 </tr>
+<tr>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
 </tbody></table>
-<h3 id="walk"><a href="#Walk" class="headerlink" title="Walk"></a>Walk</h3><p>| somewhere    | |</p>
+<h3 id="walk"><a href="#Walk" class="headerlink" title="Walk"></a>Walk</h3><p>| somewhere    | |<br>| 绍兴 |鲁迅故居 沈园|</p>
 <h3 id="know"><a href="#know" class="headerlink" title="know"></a>know</h3><table>
 <thead>
 <tr>
@@ -1245,6 +1265,114 @@
 </thead>
 <tbody><tr>
 <td align="left">宗次郎音乐会</td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h3 id="plan"><a href="#Plan" class="headerlink" title="Plan"></a>Plan</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+</tr>
+</thead>
+</table>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>月志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025-7</title>
+    <url>/2025/07/27/2025-07/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+    <div id="aplayer-PDhCRYyq" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="28912082" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div>
+<!-- 
+    <div id="aplayer-xInsmofb" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="002j785c33YQHT" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div> -->
+<!-- 
+    <div id="aplayer-TxOibCdz" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
+    ></div> -->
+
+<h3 id="read"><a href="#Read" class="headerlink" title="Read"></a>Read</h3><table>
+<thead>
+<tr>
+<th align="left">题名</th>
+<th align="left">作者</th>
+<th align="left">评分</th>
+<th align="left">题材</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">女士品茶</td>
+<td align="left"></td>
+<td align="left">3.5</td>
+<td align="left">数学</td>
+</tr>
+<tr>
+<td align="left">如何学习</td>
+<td align="left">本尼迪凯特</td>
+<td align="left">3.5</td>
+<td align="left">认知</td>
+</tr>
+<tr>
+<td align="left">基于R语言的机器学习</td>
+<td align="left">scott V</td>
+<td align="left">3.5</td>
+<td align="left">编程</td>
+</tr>
+<tr>
+<td align="left">高效R语言编程</td>
+<td align="left">Coline</td>
+<td align="left">3.5</td>
+<td align="left">编程</td>
+</tr>
+</tbody></table>
+<h3 id="movie"><a href="#Movie" class="headerlink" title="Movie"></a>Movie</h3><table>
+<thead>
+<tr>
+<th align="left">题名</th>
+<th align="left">评分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">满江红</td>
+<td align="left">3.5</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h3 id="walk"><a href="#Walk" class="headerlink" title="Walk"></a>Walk</h3><p>| somewhere    | |<br>| 黄山 ||</p>
+<h3 id="know"><a href="#know" class="headerlink" title="know"></a>know</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h3 id="change"><a href="#Change" class="headerlink" title="Change"></a>Change</h3><table>
+<thead>
+<tr>
+<th align="left">something</th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">火龙果炒饭</td>
 <td align="left"></td>
 </tr>
 </tbody></table>
